@@ -36,7 +36,7 @@
         "@types/command-line-args": "^5.2.0",
         "@types/jest": "^27.5.2",
         "@types/node": "^17.0.45",
-        "@types/tmp": "^0.2.3",
+        "@types/tmp": "^0.2.6",
         "jest": "^27.5.1",
         "jest-junit": "^13.2.0",
         "shx": "^0.3.4",
